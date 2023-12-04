@@ -1,0 +1,6 @@
+{
+  "login": {
+    "message": "Login success",
+    "accessToken": "Token here..."
+  }
+}
